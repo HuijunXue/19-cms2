@@ -33,6 +33,9 @@ export default {
 </script>
 
 <style>
+  body{
+    background-color: white;
+  }
   .page{
     margin: 40px 0 50px 0;
   }
